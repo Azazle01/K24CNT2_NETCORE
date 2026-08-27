@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\views\\nxtproduct\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\models\\nxtproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\controllers\\nxtproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\views\\nxtproduct\\nxtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E63769-4A01-4F33-AE2E-32E83BE15099}|..\\NXTLesson02Theory\\NXTLesson02Theory.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02theory\\nxtlesson02theory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D2B51C-912D-F5B3-06D1-9AE7FFED9003}|NXTLesson02Review.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson02review\\nxtlesson02review.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52D2B51C-912D-F5B3-06D1-9AE7FFED9003}|NXTLesson02Review.csproj|solutionrelative:nxtlesson02review.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T02:51:50.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NXTindex.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\NXTProduct\\NXTindex.cshtml",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Views\\NXTProduct\\NXTindex.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\NXTProduct\\NXTindex.cshtml",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Views\\NXTProduct\\NXTindex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T02:13:50.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T02:12:31.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NXTProductController.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Controllers\\NXTProductController.cs",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Controllers\\NXTProductController.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Controllers\\NXTProductController.cs",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Controllers\\NXTProductController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T01:33:19.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\NXTProduct\\Product.cshtml",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Views\\NXTProduct\\Product.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\NXTProduct\\Product.cshtml",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Views\\NXTProduct\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T12:51:02.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:17:52.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NxtProduct.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Models\\NxtProduct.cs",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Models\\NxtProduct.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Models\\NxtProduct.cs",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Models\\NxtProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:19:49.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:19:03.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T02:51:59.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NXTLesson02Theory.csproj",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\NXTLesson02Theory.csproj",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\NXTLesson02Theory.csproj",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\NXTLesson02Theory.csproj",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\NXTLesson02Theory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T01:44:20.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T02:52:01.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\NXTLesson02Theory\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Theory\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\NXTLesson02Theory\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T02:28:17.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NXTLesson02Review.csproj",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Review\\NXTLesson02Review.csproj",
+              "RelativeDocumentMoniker": "NXTLesson02Review.csproj",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson02Review\\NXTLesson02Review.csproj",
+              "RelativeToolTip": "NXTLesson02Review.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T01:44:18.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
