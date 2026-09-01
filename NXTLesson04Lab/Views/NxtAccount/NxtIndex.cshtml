@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Danh sách tài khoản ";
+    var NxtAccounts = ViewBag.NxtAccounts;
+}
+<div class="row">
+    @foreach (NxtAccount item in NxtAccounts)
+    {
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <div class="img">
+                        <img src="@item.Avatar" alt="@item.Name " class="img-fluid" />
+                    </div>
+                    <div class="">
+                        <h3>@item.Name </h3>
+                        <p>@item.Bio</p>
+                        <a asp-route ="NxtProfile" asp-asp-id="@item.Id" class="btn btn-success btn-lock">Profile</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

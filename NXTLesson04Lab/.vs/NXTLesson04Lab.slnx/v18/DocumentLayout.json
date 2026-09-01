@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson04lab\\views\\nxtaccount\\nxtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|solutionrelative:views\\nxtaccount\\nxtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson04lab\\controllers\\nxtaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|solutionrelative:controllers\\nxtaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson04lab\\models\\nxtaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|solutionrelative:models\\nxtaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson04lab\\views\\nxtaccount\\nxtprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|solutionrelative:views\\nxtaccount\\nxtprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson04lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson04lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson04lab\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8E2CCD78-382D-32C8-C784-7B1520393BE8}|NXTLesson04Lab.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T09:02:20.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T08:56:08.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NxtProfile.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Views\\NxtAccount\\NxtProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\NxtAccount\\NxtProfile.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Views\\NxtAccount\\NxtProfile.cshtml",
+              "RelativeToolTip": "Views\\NxtAccount\\NxtProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T08:27:47.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-01T08:10:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NxtAccountController.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Controllers\\NxtAccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NxtAccountController.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Controllers\\NxtAccountController.cs",
+              "RelativeToolTip": "Controllers\\NxtAccountController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T07:56:01.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NxtAccount.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Models\\NxtAccount.cs",
+              "RelativeDocumentMoniker": "Models\\NxtAccount.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Models\\NxtAccount.cs",
+              "RelativeToolTip": "Models\\NxtAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T07:49:46.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NxtIndex.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Views\\NxtAccount\\NxtIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\NxtAccount\\NxtIndex.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NXTLesson04Lab\\Views\\NxtAccount\\NxtIndex.cshtml",
+              "RelativeToolTip": "Views\\NxtAccount\\NxtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T07:49:38.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
