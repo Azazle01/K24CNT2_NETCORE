@@ -1,0 +1,21 @@
+﻿@model IEnumerable<BaiLab.Models.Category>
+
+<div class="card">
+    <div class="card-header bg-primary text-white">
+        Danh mục sản phẩm
+    </div>
+    <ul class="list-group list-group-flush">
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <li class="list-group-item">
+                    <a href="#" class="text-decoration-none text-dark">@item.Name</a>
+                </li>
+            }
+        }
+    </ul>
+</div>
+<div class="mt-3 text-center">
+    <img src="https://via.placeholder.com/250x200?text=Quang+Cao" class="img-fluid rounded" alt="Quảng cáo" />
+</div>
