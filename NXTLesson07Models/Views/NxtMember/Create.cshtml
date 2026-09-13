@@ -1,0 +1,46 @@
+@model NXTLesson07Models.Models.DataModel.NxtMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="card p-3">
+<h1>Thêm Mới Thành Viên </h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post" asp-controller="NxtMember">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="NxtUserName" class="control-label"></label>
+                <input asp-for="NxtUserName" class="form-control" />
+                <span asp-validation-for="NxtUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtPassword" class="control-label"></label>
+                <input asp-for="NxtPassword" class="form-control" />
+                <span asp-validation-for="NxtPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtFullName" class="control-label"></label>
+                <input asp-for="NxtFullName" class="form-control" />
+                <span asp-validation-for="NxtFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtEmail" class="control-label"></label>
+                <input asp-for="NxtEmail" class="form-control" />
+                <span asp-validation-for="NxtEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group my-2">
+                <input type="submit" value="Ghi lại" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-primary" >Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+</div>

@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Thông tin member";
+    var member = ViewBag.Member as NXTLesson07Models.Models.DataModel.NxtMember;
+}
+<div class="alert alert-info">
+    <h1>@ViewData["Title"]</h1>
+    @*
+    <p>Member Id: @ViewBag.Member.NxtMemberId</p>
+    <p>UserName:@ViewBag.Member.NxtUserName</p>
+    <p>Username:@ViewBag.Member.NxtPassword</p>
+    <p>Username:@ViewBag.Member.NxtFullName</p>
+    <p>Username:@ViewBag.Member.NxtEmail</p> *@
+
+    <p>Member Id:@member.NxtMemberId</p>
+    <p>UserName:@member.NxtUserName</p>
+    <p>Username:@member.NxtPassword</p>
+    <p>Username:@member.NxtFullName</p>
+    <p>Username:@member.NxtEmail</p>
+</div>
