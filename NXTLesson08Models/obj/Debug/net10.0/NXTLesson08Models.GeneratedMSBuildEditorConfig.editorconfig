@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NXTLesson08Models
+build_property.RootNamespace = NXTLesson08Models
+build_property.ProjectDir = D:\GIT\K24CNT2_NETCORE\NXTLesson08Models\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\GIT\K24CNT2_NETCORE\NXTLesson08Models
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/NxtHome/NxtAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnh0SG9tZVxOeHRBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/NxtHome/NxtIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnh0SG9tZVxOeHRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/NxtHome/NxtPrivacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnh0SG9tZVxOeHRQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/NxtMember/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnh0TWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/NxtMember/NxtCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnh0TWVtYmVyXE54dENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/NxtMember/NxtDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnh0TWVtYmVyXE54dERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/NxtMember/NxtDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnh0TWVtYmVyXE54dERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/NxtMember/NxtEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnh0TWVtYmVyXE54dEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT/K24CNT2_NETCORE/NXTLesson08Models/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rscll90t2z

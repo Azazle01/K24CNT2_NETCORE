@@ -1,0 +1,51 @@
+@model NXTLesson08Models.Models.NxtMember
+
+@{
+    ViewData["Title"] = "Thông tin chi tiết thành viên ";
+}
+
+<h1>Thông tin chi tiết </h1>
+
+<div>
+    <h4>NxtMember</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtMemberId)
+        </dt>
+         <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtMemberId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtUserName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtUserName)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtPassword)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtPassword)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtFullName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtFullName)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtEmail)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="NxtEdit" asp-route-id="@Model?.NxtMemberId">Sửa</a> |
+    <a asp-action="Index">Quay lại </a>
+</div>

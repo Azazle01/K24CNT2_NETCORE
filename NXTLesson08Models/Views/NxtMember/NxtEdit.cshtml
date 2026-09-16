@@ -1,0 +1,58 @@
+@model NXTLesson08Models.Models.NxtMember
+
+@{
+    ViewData["Title"] = "Sửa thông tin thành viên";
+}
+<form asp-action="NxtEdit">
+<div class="card p-3">
+    <div class="card-header">
+        <h1>@ViewData["Title"]</h1>
+    </div>
+    
+ <div class="card-body">
+
+  <div class="row">
+    <div class="col-md-4">
+        
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+             <div class="form-group">
+                <label asp-for="NxtMemberId" class="control-label"></label>
+                <input asp-for="NxtMemberId" class="form-control" />
+                <span asp-validation-for="NxtMemberId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtUserName" class="control-label"></label>
+                <input asp-for="NxtUserName" class="form-control" />
+                <span asp-validation-for="NxtUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtPassword" class="control-label"></label>
+                <input asp-for="NxtPassword" class="form-control" />
+                <span asp-validation-for="NxtPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtFullName" class="control-label"></label>
+                <input asp-for="NxtFullName" class="form-control" />
+                <span asp-validation-for="NxtFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtEmail" class="control-label"></label>
+                <input asp-for="NxtEmail" class="form-control" />
+                <span asp-validation-for="NxtEmail" class="text-danger"></span>
+            </div>  
+     </div>
+     <div class="card-footer">
+         <div class="form-group">
+                <input type="submit" value="Ghi lại" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </div>
+   </div>
+</div>
+</form>
+

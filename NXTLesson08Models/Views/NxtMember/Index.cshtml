@@ -1,0 +1,62 @@
+@model IEnumerable<NXTLesson08Models.Models.NxtMember>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+<div class="card p-3">
+    <div class="card-header">
+        <h1>@ViewData["Title"]</h1>
+        <a asp-action="NxtCreate">Thêm mới </a>
+    </div>
+    <div class="card-body">
+<table class="table table-bordered">
+    <thead>
+        <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NxtMemberId)
+                    </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.NxtUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NxtPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NxtFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NxtEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                        <td>
+                            @Html.DisplayFor(model => item.NxtMemberId)
+                        </td>
+            <td>
+                @Html.DisplayFor(model => item.NxtUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NxtPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NxtFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NxtEmail)
+            </td>
+            <td>
+                <a asp-action="NxtEdit" asp-route-id="@item.NxtMemberId">Sửa</a> |
+                <a asp-action="NxtDetails" asp-route-id="@item.NxtMemberId">Xem chi tiết</a> |
+                <a asp-action="NxtDelete" asp-route-id="@item.NxtMemberId">Xóa </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+    </div>
+</div>
