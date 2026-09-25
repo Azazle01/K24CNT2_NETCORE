@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\controllers\\nxtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:controllers\\nxtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\views\\nxtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:views\\nxtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\models\\nxtk24cnt2lesson10efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:models\\nxtk24cnt2lesson10efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\models\\nxtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:models\\nxtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\views\\nxtmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:views\\nxtmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson10efdbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C211FD66-C336-4555-9B27-4032A29C45D4}|NxtLesson10EFDbFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Views\\NxtMember\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\NxtMember\\index.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Views\\NxtMember\\index.cshtml",
+              "RelativeToolTip": "Views\\NxtMember\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T13:20:50.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NxtMember.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Models\\NxtMember.cs",
+              "RelativeDocumentMoniker": "Models\\NxtMember.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Models\\NxtMember.cs",
+              "RelativeToolTip": "Models\\NxtMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:06:22.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NxtK24cnt2lesson10EfdbContext.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Models\\NxtK24cnt2lesson10EfdbContext.cs",
+              "RelativeDocumentMoniker": "Models\\NxtK24cnt2lesson10EfdbContext.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Models\\NxtK24cnt2lesson10EfdbContext.cs",
+              "RelativeToolTip": "Models\\NxtK24cnt2lesson10EfdbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:02:04.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NxtMemberController.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Controllers\\NxtMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NxtMemberController.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Controllers\\NxtMemberController.cs",
+              "RelativeToolTip": "Controllers\\NxtMemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:15:28.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:16:35.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T13:16:48.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:52:34.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Views\\NxtMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\NxtMember\\Create.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Views\\NxtMember\\Create.cshtml",
+              "RelativeToolTip": "Views\\NxtMember\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T13:48:39.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T13:16:42.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-25T13:03:49.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson10EFDbFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:06:44.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
