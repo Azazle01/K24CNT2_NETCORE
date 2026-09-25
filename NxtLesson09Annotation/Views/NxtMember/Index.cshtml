@@ -1,0 +1,65 @@
+@model IEnumerable<NxtLesson09Annotation.Models.DataModels.NxtMember>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên ";
+}
+
+<h1>Danh sách thành viên </h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NxtUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NxtPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NxtEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NxtPhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NxtFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NxtBirthday)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.NxtUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NxtPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NxtEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NxtPhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NxtFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NxtBirthday)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.NxtMemberId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.NxtMemberId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.NxtMemberId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

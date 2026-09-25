@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\controllers\\nxtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:controllers\\nxtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\views\\nxtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:views\\nxtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\models\\dataviewmodels\\nxtmemberregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:models\\dataviewmodels\\nxtmemberregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\views\\home\\nxtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:views\\home\\nxtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\models\\datamodels\\nxtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:models\\datamodels\\nxtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|d:\\git\\k24cnt2_netcore\\nxtlesson09annotation\\views\\nxtmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE510B10-E1B6-346E-3B9C-AE5F2DCE2C36}|NxtLesson09Annotation.csproj|solutionrelative:views\\nxtmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\NxtMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\NxtMember\\Index.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\NxtMember\\Index.cshtml",
+              "RelativeToolTip": "Views\\NxtMember\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T14:34:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\NxtMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\NxtMember\\Create.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\NxtMember\\Create.cshtml",
+              "RelativeToolTip": "Views\\NxtMember\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T14:31:43.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T10:57:38.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NxtMemberRegister.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Models\\DataViewModels\\NxtMemberRegister.cs",
+              "RelativeDocumentMoniker": "Models\\DataViewModels\\NxtMemberRegister.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Models\\DataViewModels\\NxtMemberRegister.cs",
+              "RelativeToolTip": "Models\\DataViewModels\\NxtMemberRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:57:27.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NxtMemberController.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Controllers\\NxtMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NxtMemberController.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Controllers\\NxtMemberController.cs",
+              "RelativeToolTip": "Controllers\\NxtMemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:55:25.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NxtAbout.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Home\\NxtAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\NxtAbout.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Home\\NxtAbout.cshtml",
+              "RelativeToolTip": "Views\\Home\\NxtAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T09:38:30.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T09:33:30.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T10:57:41.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T10:57:48.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NxtMember.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Models\\DataModels\\NxtMember.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\NxtMember.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Models\\DataModels\\NxtMember.cs",
+              "RelativeToolTip": "Models\\DataModels\\NxtMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:49:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NxtLesson09Annotation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:35:20.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

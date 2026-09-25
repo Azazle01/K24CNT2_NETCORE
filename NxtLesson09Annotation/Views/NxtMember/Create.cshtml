@@ -1,0 +1,60 @@
+@model NxtLesson09Annotation.Models.DataModels.NxtMember
+
+@{
+    ViewData["Title"] = "Thêm mới thành viên ";
+}
+
+<h1>Create</h1>
+
+<h4>NxtMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="NxtUserName" class="control-label"></label>
+                <input asp-for="NxtUserName" class="form-control" />
+                <span asp-validation-for="NxtUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtPassword" class="control-label"></label>
+                <input asp-for="NxtPassword" class="form-control" />
+                <span asp-validation-for="NxtPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtEmail" class="control-label"></label>
+                <input asp-for="NxtEmail" class="form-control" />
+                <span asp-validation-for="NxtEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtPhoneNumber" class="control-label"></label>
+                <input asp-for="NxtPhoneNumber" class="form-control" />
+                <span asp-validation-for="NxtPhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtFullName" class="control-label"></label>
+                <input asp-for="NxtFullName" class="form-control" />
+                <span asp-validation-for="NxtFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NxtBirthday" class="control-label"></label>
+                <input asp-for="NxtBirthday" class="form-control" />
+                <span asp-validation-for="NxtBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
