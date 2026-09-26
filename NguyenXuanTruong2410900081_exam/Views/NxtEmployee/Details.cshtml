@@ -1,0 +1,59 @@
+@model NguyenXuanTruong2410900081_exam.Models.NxtEmployee
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>NxtEmployee</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtName)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtGender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtGender)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtBirthday)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtBirthday)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtEmail)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtPhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtPhone)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NxtActive)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NxtActive)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,212 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f7fb;
+    color: #212529;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+
+.navbar .nav-link {
+    font-weight: 500;
+    margin-right: 8px;
+    transition: 0.2s;
+}
+
+    .navbar .nav-link:hover {
+        color: #0d6efd !important;
+    }
+
+/* Container */
+.container {
+    max-width: 1200px;
+}
+
+/* Tiêu đề */
+h1, h2, h3 {
+    font-weight: 700;
+}
+
+.page-title {
+    margin-bottom: 20px;
+    color: #1f2937;
+}
+
+/* Card */
+.card {
+    border: none;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.card-header {
+    padding: 15px 20px;
+    font-weight: 600;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+/* Bảng danh sách */
+.table {
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+
+    .table thead th {
+        white-space: nowrap;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .table tbody td {
+        vertical-align: middle;
+    }
+
+.table-hover tbody tr:hover {
+    background-color: #f1f5f9;
+}
+
+/* Nút */
+.btn {
+    border-radius: 7px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+    .btn:hover {
+        transform: translateY(-1px);
+    }
+
+.btn-sm {
+    margin: 2px;
+}
+
+/* Form */
+.form-control,
+.form-select {
+    border-radius: 7px;
+    padding: 9px 12px;
+    border: 1px solid #ced4da;
+}
+
+    .form-control:focus,
+    .form-select:focus {
+        border-color: #86b7fe;
+        box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.15);
+    }
+
+.form-label {
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+/* Validation */
+.text-danger {
+    font-size: 13px;
+}
+
+.field-validation-error {
+    display: block;
+    margin-top: 4px;
+}
+
+/* Badge */
+.badge {
+    padding: 7px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+/* Trang thông tin sinh viên */
+.student-info {
+    max-width: 750px;
+    margin: 40px auto;
+}
+
+    .student-info .info-row {
+        display: flex;
+        border-bottom: 1px solid #e5e7eb;
+        padding: 13px 5px;
+    }
+
+    .student-info .info-label {
+        width: 180px;
+        font-weight: 600;
+        color: #495057;
+    }
+
+    .student-info .info-value {
+        flex: 1;
+    }
+
+/* Footer */
+footer {
+    margin-top: 50px;
+    padding: 20px 0;
+    background-color: #ffffff;
+    border-top: 1px solid #e5e7eb;
+    color: #6c757d;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    html {
+        font-size: 13px;
+    }
+
+    .container {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .card-body {
+        padding: 12px;
+    }
+
+    .table-responsive {
+        overflow-x: auto;
+    }
+
+    .student-info .info-row {
+        display: block;
+    }
+
+    .student-info .info-label {
+        width: 100%;
+        margin-bottom: 4px;
+    }
+
+    .btn {
+        margin-bottom: 4px;
+    }
+}
+
+@media (max-width: 576px) {
+    h2 {
+        font-size: 22px;
+    }
+
+    .table {
+        font-size: 12px;
+    }
+
+    .btn-sm {
+        padding: 4px 7px;
+        font-size: 12px;
+    }
+}

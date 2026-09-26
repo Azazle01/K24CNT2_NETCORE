@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|d:\\git\\k24cnt2_netcore\\nguyenxuantruong2410900081_exam\\controllers\\nxtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|solutionrelative:controllers\\nxtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|d:\\git\\k24cnt2_netcore\\nguyenxuantruong2410900081_exam\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|d:\\git\\k24cnt2_netcore\\nguyenxuantruong2410900081_exam\\views\\nxtemployee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|solutionrelative:views\\nxtemployee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|d:\\git\\k24cnt2_netcore\\nguyenxuantruong2410900081_exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|d:\\git\\k24cnt2_netcore\\nguyenxuantruong2410900081_exam\\models\\nxtemployeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|solutionrelative:models\\nxtemployeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|d:\\git\\k24cnt2_netcore\\nguyenxuantruong2410900081_exam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|d:\\git\\k24cnt2_netcore\\nguyenxuantruong2410900081_exam\\views\\home\\nxtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|solutionrelative:views\\home\\nxtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|d:\\git\\k24cnt2_netcore\\nguyenxuantruong2410900081_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|d:\\git\\k24cnt2_netcore\\nguyenxuantruong2410900081_exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04DF02E5-F825-495A-A99F-3F1F47DF4682}|NguyenXuanTruong2410900081_exam.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-26T04:23:53.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Views\\NxtEmployee\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\NxtEmployee\\index.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Views\\NxtEmployee\\index.cshtml",
+              "RelativeToolTip": "Views\\NxtEmployee\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T04:22:32.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T04:18:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T04:17:59.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NxtEmployeeController.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Controllers\\NxtEmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NxtEmployeeController.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Controllers\\NxtEmployeeController.cs",
+              "RelativeToolTip": "Controllers\\NxtEmployeeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T04:17:23.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T04:12:11.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-26T04:09:55.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NxtEmployeeContext.cs",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Models\\NxtEmployeeContext.cs",
+              "RelativeDocumentMoniker": "Models\\NxtEmployeeContext.cs",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Models\\NxtEmployeeContext.cs",
+              "RelativeToolTip": "Models\\NxtEmployeeContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T04:09:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NxtAbout.cshtml",
+              "DocumentMoniker": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Views\\Home\\NxtAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\NxtAbout.cshtml",
+              "ToolTip": "D:\\GIT\\K24CNT2_NETCORE\\NguyenXuanTruong2410900081_exam\\Views\\Home\\NxtAbout.cshtml",
+              "RelativeToolTip": "Views\\Home\\NxtAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T04:19:25.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
